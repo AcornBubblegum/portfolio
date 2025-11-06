@@ -722,6 +722,14 @@ section,
   transition: 0.9s;
   background-color: var(--accent-color);
 }
+.skills col-lg-6 h3 {
+  color: #d47da4; /* pastel pink tone */
+  margin-bottom: 15px;
+  border-left: 4px solid #f4b6c2;
+  padding-left: 8px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
 
 /*--------------------------------------------------------------
 # Resume Section
